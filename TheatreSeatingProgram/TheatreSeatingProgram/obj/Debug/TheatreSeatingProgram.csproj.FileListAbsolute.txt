@@ -1,0 +1,7 @@
+C:\Career\TheatreSeatingProgram\TheatreSeatingProgram\obj\Debug\TheatreSeatingProgram.csprojAssemblyReference.cache
+C:\Career\TheatreSeatingProgram\TheatreSeatingProgram\obj\Debug\TheatreSeatingProgram.csproj.CoreCompileInputs.cache
+C:\Career\TheatreSeatingProgram\TheatreSeatingProgram\bin\Debug\TheatreSeatingProgram.exe.config
+C:\Career\TheatreSeatingProgram\TheatreSeatingProgram\bin\Debug\TheatreSeatingProgram.exe
+C:\Career\TheatreSeatingProgram\TheatreSeatingProgram\bin\Debug\TheatreSeatingProgram.pdb
+C:\Career\TheatreSeatingProgram\TheatreSeatingProgram\obj\Debug\TheatreSeatingProgram.exe
+C:\Career\TheatreSeatingProgram\TheatreSeatingProgram\obj\Debug\TheatreSeatingProgram.pdb
